@@ -1,0 +1,33 @@
+
+
+body {
+  background-color: rgb(128, 168, 139);
+}
+
+h1 {
+  text-align: center;
+}
+
+.big-box{
+  width: 50%;
+  background-color: rgb(169, 238, 178);
+  margin: 5rem auto;
+  padding: 2rem;
+}
+
+.list-group-item {
+  margin: 1rem;
+  border-radius:3px;
+  box-shadow: 0 2px 20px 3px #5e2a2a4d;
+  display:flex!important;
+  justify-content: space-between;
+}
+
+.list-group {
+  justify-content: space-between;
+}
+
+.cuadroTotal{
+  border:1px solid black !important;
+  background-color: rgba(253, 221, 78, 0.911)!important;
+}
